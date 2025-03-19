@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m Amrita Das
 
-<!--
-**Amrita-DevX/Amrita-DevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I'm currently working at Infosys India on a healthcare project, where I’ve gained strong experience in SQL and data analysis within the healthcare domain.
 
-Here are some ideas to get you started:
+📊 I’m passionate about exploring data and recently started my journey in data analysis, focusing on EDA (Exploratory Data Analysis), data cleaning, and storytelling through visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Skills: Python | SQL | Power BI | Pandas | NumPy | Excel | Scikit Learn
+
+📈 I actively work on Kaggle, exploring various datasets, performing EDA, and sharing insights. Check out my work on Kaggle here 👉 [Kaggle Profile](https://www.kaggle.com/amritadas26)
+
+👀 I enjoy diving into data to uncover insights that drive business decisions and improve processes.
+
+💡 My goal is to grow as a Data Analyst and work on impactful real-world projects.
+
+📫 Let’s connect! Find me here:
+🔗[LinkedIn](https://www.linkedin.com/in/amrita-das-6b9117218/)  
