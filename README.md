@@ -1,6 +1,6 @@
 👋 Hi, I’m Amrita Das
 
-💼 I'm currently working at Infosys India on a healthcare project, where I’ve gained strong experience in SQL and data analysis within the healthcare domain.
+💼 I'm currently working as Senior Systems Engineer at Infosys India on a healthcare project, where I’ve gained strong experience in SQL and data analysis within the healthcare domain.
 
 📊 I’m passionate about exploring data and recently started my journey in data analysis, focusing on EDA (Exploratory Data Analysis), data cleaning, and storytelling through visualizations.
 
