@@ -1,14 +1,19 @@
 👋 Hi, I’m Amrita Das
 
-💼 I'm currently working as a Senior Systems Engineer at Infosys India on a healthcare insurance project, where I work extensively with SQL, PL/SQL, and claims data from FACETS. My role involves analyzing healthcare data, generating insights, and supporting business decisions through reports and backend analysis.
+💼 I'm currently working as a Senior Systems Engineer at Infosys India, where I work on a healthcare insurance project. My role involves analyzing large volumes of claims data from FACETS using SQL and PL/SQL, identifying trends, and supporting data-driven decision-making for internal stakeholders.
 
-📊 I’m also transitioning into the field of Data Analytics. I actively use tools like Power BI and Python (Pandas, Matplotlib) in my current project tasks for data exploration, cleaning, and creating visual reports — alongside building personal portfolio projects to strengthen my analytics expertise.
+📊 Over time, I’ve expanded my responsibilities to include exploratory data analysis, pattern recognition, and reporting using **Python (Pandas, NumPy, Matplotlib)** and **Power BI**. I use these tools both in my project work and in building real-world data science projects focused on business impact and insights.
 
-🛠️ Tools & Skills: Python | SQL | Power BI | Pandas | NumPy | Excel | Scikit Learn
+🧠 I'm passionate about applying data and analytics to solve real-world business problems. I actively work on data exploration, predictive modeling, and visual storytelling through hands-on projects, while continuously building my expertise in areas like forecasting and machine learning.
 
-📈 I actively work on Kaggle, exploring various datasets, performing EDA, and sharing insights. Check out my work on Kaggle here 👉 [Kaggle Profile](https://www.kaggle.com/amritadas26)
+🛠️ Python | SQL | Power BI | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Statsmodels | Excel | Jupyter | Streamlit | Git | Model Deployment
 
-👀 I enjoy diving into data to uncover insights that drive business decisions and improve processes.
+📈 I also explore diverse datasets on **Kaggle**, perform end-to-end EDA, modeling, and share insights. Check out my work here 👉 [Kaggle Profile](https://www.kaggle.com/amritadas26)
+
+🚀 I’m on a focused journey toward becoming a **Data Scientist**, combining strong domain knowledge in healthcare with growing expertise in machine learning and predictive analytics.
+
+👀 I love transforming raw data into meaningful stories that solve problems, uncover trends, and help businesses make better decisions.
+
 
 📫 Let’s connect! Find me here:
 🔗[LinkedIn](https://www.linkedin.com/in/amrita-das-6b9117218/)  
