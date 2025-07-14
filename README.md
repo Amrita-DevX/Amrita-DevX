@@ -1,19 +1,18 @@
 👋 Hi, I’m Amrita Das
 
-💼 I'm currently working as a Senior Systems Engineer at Infosys India, where I work on a healthcare insurance project. My role involves analyzing large volumes of claims data from FACETS using SQL and PL/SQL, identifying trends, and supporting data-driven decision-making for internal stakeholders.
+💼 I'm currently working as a Senior Systems Engineer at Infosys, contributing to a healthcare insurance project. I work extensively with FACETS claims data, leveraging SQL and PL/SQL to perform data extraction, transformation, and analytical querying — often preparing data for downstream tasks like trend analysis, reporting, and model-ready datasets used by analytics and data science teams.
 
-📊 Over time, I’ve expanded my responsibilities to include exploratory data analysis, pattern recognition, and reporting using **Python (Pandas, NumPy, Matplotlib)** and **Power BI**. I use these tools both in my project work and in building real-world data science projects focused on business impact and insights.
+📊 Over time, I’ve had the opportunity to collaborate closely with teams working on data science initiatives, where I’ve been actively engaged in tasks such as model development, data preprocessing, EDA, and dashboarding. This hands-on involvement has given me valuable experience in the end-to-end data science lifecycle — from exploring business problems to building predictive models and interpreting results.
 
-🧠 I'm passionate about applying data and analytics to solve real-world business problems. I actively work on data exploration, predictive modeling, and visual storytelling through hands-on projects, while continuously building my expertise in areas like forecasting and machine learning.
+I’ve applied this experience to my own projects where I build, evaluate, and prepare machine learning models using Python (Pandas, NumPy, Scikit-learn, Statsmodels) and tools like Power BI for visualization. I’m also gaining exposure to model deployment, automation, and exploring time series forecasting and classification problems with real-world dataset
+
+🚀  I'm actively shaping my career in the field of Data Science, combining my healthcare domain experience with practical application of machine learning, predictive analytics, and data-driven problem solving — through both project collaboration and self-initiated work.
 
 🛠️ Python | SQL | Power BI | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Statsmodels | Excel | Jupyter | Streamlit | Git | Model Deployment
 
-📈 I also explore diverse datasets on **Kaggle**, perform end-to-end EDA, modeling, and share insights. Check out my work here 👉 [Kaggle Profile](https://www.kaggle.com/amritadas26)
-
-🚀 I’m on a focused journey toward becoming a **Data Scientist**, combining strong domain knowledge in healthcare with growing expertise in machine learning and predictive analytics.
-
 👀 I love transforming raw data into meaningful stories that solve problems, uncover trends, and help businesses make better decisions.
 
+📈 I also explore diverse datasets on **Kaggle**, perform end-to-end EDA, modeling, and share insights. Check out my work here 👉 [Kaggle Profile](https://www.kaggle.com/amritadas26)
 
 📫 Let’s connect! Find me here:
 🔗[LinkedIn](https://www.linkedin.com/in/amrita-das-6b9117218/)  
